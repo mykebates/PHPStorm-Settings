@@ -18,5 +18,6 @@
     <toolWindow group="PHP Debugger" />
     <toolWindow group="Inspection Results" />
     <toolWindow group="Vcs Messages" />
+    <toolWindow group="Common Version Control Messages" />
   </component>
 </application>

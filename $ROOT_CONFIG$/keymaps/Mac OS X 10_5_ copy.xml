@@ -1,0 +1,41 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Diff.SelectedChange" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta V" />
+  </action>
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="shift meta V" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta R" />
+  </action>
+  <action id="GotoClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta P" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta R" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="PasteMultiple" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="ReplaceInPath" />
+  <action id="Rerun" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+</keymap>

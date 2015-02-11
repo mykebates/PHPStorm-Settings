@@ -116,9 +116,9 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/Sites/mccain-closed-loop-rebate-tool/layout" />
-        <option value="$USER_HOME$/Sites/HorseStrap" />
+        <option value="$USER_HOME$/Sites/BrennanWindows/com.brennanwindows.www" />
         <option value="$USER_HOME$/TAP Music/tap-music" />
+        <option value="$USER_HOME$/Sites/tapjira/com.tapjira.www" />
         <option value="$USER_HOME$/Sites/TapJira/com.tapjira.www" />
         <option value="$USER_HOME$/Sites/DOT-Expressway/layout-laravel" />
         <option value="$USER_HOME$/Sites/tap-music/com.tapmusic.www" />
@@ -132,7 +132,6 @@
         <option value="$USER_HOME$/Sites/mykebates.com/com.mykebates.www" />
         <option value="$USER_HOME$/Sites/quipvidMobile" />
         <option value="$USER_HOME$/Sites/SurvivalPool" />
-        <option value="$USER_HOME$/Sites/BrennanWindows/com.brennanwindows.www" />
         <option value="$USER_HOME$/Sites/quipvid/com.quipvid.www" />
         <option value="$USER_HOME$/Sites/premier-b2b/com.welovegaragedoors.www" />
         <option value="$USER_HOME$/Sites/DOT-Expressway/layout-laravel/public" />
@@ -140,10 +139,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/Sites/HorseStrap" />
+        <option value="$USER_HOME$/Sites/BrennanWindows/com.brennanwindows.www" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/Sites/mccain-closed-loop-rebate-tool/layout" />
+    <option name="lastPath" value="$USER_HOME$/Sites/BrennanWindows/com.brennanwindows.www" />
   </component>
   <component name="Registry">
     <entry key="ide.firstStartup" value="false" />

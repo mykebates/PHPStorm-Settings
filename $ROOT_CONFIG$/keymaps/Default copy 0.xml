@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="meta OPEN_BRACKET" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="shift meta V" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta CLOSE_BRACKET" />
@@ -15,6 +18,7 @@
     <keyboard-shortcut first-keystroke="meta alt RIGHT" />
   </action>
   <action id="ParameterInfo" />
+  <action id="PasteMultiple" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta alt LEFT" />
   </action>

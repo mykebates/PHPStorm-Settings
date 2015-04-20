@@ -27,6 +27,7 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/Sites/stomp-www/layout" />
+        <option value="$USER_HOME$/fluent/es6-react-pres/empty" />
         <option value="$USER_HOME$/Sites/mn-www-2015" />
         <option value="$USER_HOME$/Sites/youquip" />
         <option value="$USER_HOME$/Sites/springfield-creatives" />
@@ -50,12 +51,12 @@
         <option value="$USER_HOME$/Sites/mykebates.com/com.mykebates.www" />
         <option value="$USER_HOME$/Sites/quipvidMobile" />
         <option value="$USER_HOME$/Sites/SurvivalPool" />
-        <option value="$USER_HOME$/Sites/quipvid/com.quipvid.www" />
       </list>
     </option>
     <option name="openPaths">
       <list>
         <option value="$USER_HOME$/Sites/mn-www-2015" />
+        <option value="$USER_HOME$/Sites/stomp-www/layout" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/Sites/stomp-www/layout" />

@@ -53,6 +53,11 @@
         <option value="$USER_HOME$/Sites/playground/FTPDemo" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Sites/mn-www-2015" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/Sites/mn-www-2015" />
   </component>
   <component name="Registry">

@@ -12,15 +12,15 @@
     <option name="CURRENT_SCHEME_NAME" value="Default" />
   </component>
   <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="urn:idea:xslt-plugin#extensions" />
-    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="RecentDirectoryProjectsManager">
@@ -51,6 +51,11 @@
         <option value="$USER_HOME$/Sites/DOT-Expressway/layout-laravel" />
         <option value="$USER_HOME$/Sites/tap-music/com.tapmusic.www" />
         <option value="$USER_HOME$/Sites/holiday-card-2014/com.yeti.www" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Sites/pg-pro-ui/layout" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/Sites/pg-pro-ui/layout" />
@@ -91,10 +96,14 @@
   </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="attributes">
-      <TextAttributes />
+      <TextAttributes>
+        <option name="effectType" />
+      </TextAttributes>
     </option>
     <option name="contextAttributes">
-      <TextAttributes />
+      <TextAttributes>
+        <option name="effectType" />
+      </TextAttributes>
     </option>
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">

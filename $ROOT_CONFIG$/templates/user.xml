@@ -84,7 +84,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="exports" value="module.exports = {&#10;&#10;    init: function () {&#10;        $END$&#10;    }&#10;&#10;}" description="Node style module exports" toReformat="true" toShortenFQNames="true">
+  <template name="module" value="module.exports = {&#10;&#10;    init: function () {&#10;        $END$&#10;    }&#10;&#10;}" description="Node style module exports" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="false" />
       <option name="HTML" value="false" />

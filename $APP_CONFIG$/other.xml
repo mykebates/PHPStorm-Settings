@@ -53,6 +53,11 @@
         <option value="$USER_HOME$/Sites/tapjira/com.tapjira.www" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Sites/stomp-www/sails.www" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/Sites/stomp-www/sails.www" />
   </component>
   <component name="Registry">
